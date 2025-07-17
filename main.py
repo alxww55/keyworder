@@ -65,15 +65,6 @@ db.load_data_into_db()
 
 
 
-
-
-
-
-
-
-
-
-
 # class ProductDB(Requester):
 #     def __init__(self):
 #         super().__init__()

@@ -1,7 +1,6 @@
+import os
 from .requester import Requester
 import sqlite3
-import os
-
 
 class DatabaseHandler(Requester):
     def __init__(self):
